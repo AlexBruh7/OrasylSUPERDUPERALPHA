@@ -1,0 +1,23 @@
+#el nombre del mod tal como se muestra en el juego
+displayName: "Orasyl"
+
+#el nombre interno del mod (sin espacios, minúsculas)
+name: "orasyl"
+
+#tu nombre o usuario
+author: "TU_NOMBRE_AQUI"
+
+#la clase principal del mod, con su paquete completo
+main: "orasyl.Orasyl"
+
+#la descripción del mod, visible en el diálogo de mods
+description: "Sistema solar Orasyl: nuevos planetas, facciones y mecánicas."
+
+#la versión del mod
+version: 1.0
+
+#build mínimo del juego requerido para correr este mod
+minGameVersion: 159
+
+#esto es un mod en Java
+java: true
